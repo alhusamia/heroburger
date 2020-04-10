@@ -1,0 +1,1 @@
+export const SET_BURGERSHOPS = "GET_BURGERSHOPS";
